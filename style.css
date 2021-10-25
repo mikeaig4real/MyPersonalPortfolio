@@ -424,8 +424,9 @@
             display: flex;
             justify-content: space-evenly;
             padding: 2rem;
-            background: skyblue;
-            border-top: 4px solid azure;
+            background: azure;
+            color:#385E6D;
+            border-top: 4px solid #385E6D;
         }
 
         footer > p {
