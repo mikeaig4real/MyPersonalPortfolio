@@ -424,8 +424,8 @@
             display: flex;
             justify-content: space-evenly;
             padding: 2rem;
-            background: blue;
-            border-top: 4px solid brown;
+            background: skyblue;
+            border-top: 4px solid azure;
         }
 
         footer > p {
